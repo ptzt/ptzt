@@ -9,7 +9,6 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/tomasptzt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomasptzt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tomasmillandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomasmillandev" height="30" width="40" /></a>
 </p>
 
