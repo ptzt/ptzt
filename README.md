@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJs, Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://ptzt-dev.web.app/](https://ptzt-dev.web.app/)
+- 👨‍💻 All of my projects are available at [https://ptzt.vercel.app/](https://ptzt.vercel.app/)
 
 - 📫 How to reach me **ignaciotomasrodriguezmillan@gmail.com**
 
